@@ -1,75 +1,52 @@
-# 🚀 AI-Generated Synthetic Data
+# 🚀 Synthetic Data Generator
 
-Welcome to the **AI-Powered Synthetic Data Generator**! 🎉 This project leverages AI to generate high-quality synthetic datasets while ensuring data privacy and security. Whether you're a researcher, data scientist, or developer, this tool helps you work with synthetic data without exposing sensitive information. 🔐
-
----
-
-## 📌 Features
-✅ **Upload CSV Files** – Easily upload your dataset in CSV format.  
-✅ **AI-Generated Synthetic Data** – Create realistic synthetic data while preserving statistical integrity.  
-✅ **Privacy-Preserving** – Ensures data privacy without compromising on insights.  
-✅ **User-Friendly Interface** – A clean, modern UI for seamless user experience.  
-✅ **Downloadable Output** – Get your synthetic data in CSV format instantly.  
+Welcome to the **AI-Powered Synthetic Data Generator**! 🔥 This web application helps you create **realistic synthetic datasets** with just a few clicks. Upload a CSV file, and let AI handle the rest! 🤖📊
 
 ---
 
-## 🎯 How It Works
-1️⃣ **Upload a CSV File** – Simply drag and drop your dataset. 📂  
-2️⃣ **AI Processes the Data** – Our advanced model generates synthetic data while maintaining original patterns. 🧠  
-3️⃣ **Download the Output** – Get your newly created dataset with just one click! 📥  
+## ✨ Features
+✅ Upload your dataset (CSV format)
+✅ Generate high-quality synthetic data
+✅ Download the processed dataset instantly
+✅ Simple & user-friendly interface 🎯
 
 ---
 
-## 📸 Project Screenshots
-### Home Page 🏠
-![Home Page](static/About.jpg)
-### How It Works ⚙️
-![How It Works](static/Howitworks.jpg)
-### Help Section ❓
-![Help](static/Help.jpg)
+## 📸 Screenshots
+Take a look at our awesome interface! 👇
+
+![Synthetic Data Generator](static/SSofWebpage.png)
 
 ---
 
-## 📦 Installation & Setup
-1️⃣ **Clone this repository:**  
+## 🚀 How to Run
+Follow these steps to get started:
+
+1️⃣ Clone the repository:
 ```bash
- git clone https://github.com/yourusername/ai-generated-synthetic-data.git
+git clone https://github.com/your-repo.git
 ```
-2️⃣ **Navigate into the directory:**  
+2️⃣ Navigate to the project directory:
 ```bash
- cd ai-generated-synthetic-data
+cd your-repo
 ```
-3️⃣ **Install dependencies:**  
+3️⃣ Install dependencies:
 ```bash
- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
-4️⃣ **Run the application:**  
+4️⃣ Run the application:
 ```bash
- python app.py
+python app.py
 ```
-
-Your app will be running on `http://localhost:5000/` 🎯
-
----
-
-## 📚 Technologies Used
-🖥️ **Frontend:** HTML, CSS, JavaScript  
-⚡ **Backend:** Flask (Python)  
-📊 **Machine Learning:** GANs for synthetic data generation  
-📂 **Data Format:** CSV  
+5️⃣ Open **`http://127.0.0.1:5000/`** in your browser & start generating synthetic data! 🌟
 
 ---
 
-## 👨‍💻 Contributing
-Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request. 🙌
+## 🌍 Live Deployment
+Experience the tool live here 👉 [AI Synthetic Data Generator](https://ai-synthetic.onrender.com/)
 
 ---
 
-## 📞 Contact Us
-📧 **Email:** devchikara0705@gmail.com  
-📍 **Location:** GLA University, Mathura, India  
-
----
-
-### ⭐ If you like this project, don't forget to give it a star! ⭐
+## 📜 License
+This project is licensed under the **MIT License**. Feel free to contribute and improve! 💡
 
