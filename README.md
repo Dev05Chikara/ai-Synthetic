@@ -24,7 +24,7 @@ Follow these steps to get started:
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-repo.git
+git clone https://github.com/Dev05Chikara/ai-Synthetic
 ```
 2️⃣ Navigate to the project directory:
 ```bash
