@@ -28,7 +28,7 @@ git clone https://github.com/Dev05Chikara/ai-Synthetic
 ```
 2️⃣ Navigate to the project directory:
 ```bash
-cd your-repo
+cd ai-Synthetic
 ```
 3️⃣ Install dependencies:
 ```bash
